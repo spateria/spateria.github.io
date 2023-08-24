@@ -22,7 +22,7 @@
             <tr style="padding:0px">
               <td style="padding:2.5%;width:63%;vertical-align:middle">
                 <p class="name" style="text-align: center;">
-                  Jon Barron
+                  Shubham Pateria
                 </p>
                 <p>I am a senior staff research scientist at <a href="https://ai.google/research">Google Research</a> in <a href="https://en.wikipedia.org/wiki/One_Market_Plaza">San Francisco</a>, where I work on computer vision and machine learning.
                 </p>
