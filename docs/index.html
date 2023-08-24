@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>Jon Barron</title>
+    <title>Shubham Pateria</title>
 
     <meta name="author" content="Shubham Pateria">
     <meta name="viewport" content="width=device-width, initial-scale=1">
