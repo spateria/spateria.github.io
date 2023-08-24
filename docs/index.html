@@ -7,7 +7,7 @@
 
     <title>Jon Barron</title>
 
-    <meta name="author" content="Jon Barron">
+    <meta name="author" content="Shubham Pateria">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
