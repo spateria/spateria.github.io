@@ -243,7 +243,42 @@
 		 </td>			
 	</tr>
 	      
+	<tr onmouseout="isemo_stop()" onmouseover="isemo_start()">
+	    <td style="padding:10px;width:25%;vertical-align:middle">
+	        <div class="one">
+	            <div class="two" id='isemo_image'>
+	                <img src='images/isemo.png' width="210">
+	            </div>
+	            <img src='images/isemo.png' width="210">
+	        </div>
+	        <script type="text/javascript">
+	            function isemo_start() {
+	                document.getElementById('isemo_image').style.opacity = "1";
+	            }
 	
+	            function isemo_stop() {
+	                document.getElementById('isemo_image').style.opacity = "0";
+	            }
+	            isemo_stop()
+	        </script>
+	    </td>
+		
+            <td style="padding:10px;width:75%;vertical-align:middle">
+		<p> <a href="https://ieeexplore.ieee.org/abstract/document/9002777"> Multi-agent Reinforcement Learning in Spatial Domain Tasks using Inter Subtask Empowerment Rewards </a>
+		</p>
+			<u><b>Shubham Pateria</b></u>, Budhitama Subagdja, Ah-Hwee Tan. <br>
+		<p> 
+			[<b>IEEE SSCI 2019</b>] In IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China, 2019, pp. 86-93, doi: 10.1109/SSCI44817.2019.9002777. <br>
+		<p> 	
+			[<a href="data/isemo_paper.pdf"> paper</a>] 
+			[<a href="https://github.com/spateria/ISEMO/tree/master"> codes</a>]
+		</p> 
+		<p>
+			ISEMO is a Multi-agent Hierarchical Reinforcement Learning (MAHRL) that uses an Inter-Subtask Empowerment Reward (ISER) to facilitate cooperation among agents in complex tasks, where some agents are essential for reaching rewarding states while others play supporting roles. ISER complements task rewards, enhancing inter-agent coordination, and ISEMO includes an options model to learn subtask termination functions, improving flexibility compared to hand-crafted conditions. Experiments demonstrate that ISEMO effectively learns subtask policies and terminations, outperforming standard MAHRL in a spatial Search and Rescue scenario.
+		</p>
+		 </td>			
+	</tr>
+	      
     </tbody></table>
 
        
