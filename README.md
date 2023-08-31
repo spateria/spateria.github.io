@@ -1,2 +1,3 @@
 Personal Website of Shubham Pateria
-(https://spateria.github.io/)
+
+https://spateria.github.io/
